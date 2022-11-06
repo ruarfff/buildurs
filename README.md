@@ -1,8 +1,8 @@
 # Remix K-pop Stack
 
-![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1e773f3-7574-4f95-a496-e0b0959a2a66/deploy-status)](https://app.netlify.com/sites/buildurs/deploys)
 
-Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
+Deployed Site: [buildurs.netlify.app](https://buildurs.netlify.app/)
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
